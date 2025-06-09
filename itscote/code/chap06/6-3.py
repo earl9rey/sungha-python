@@ -2,7 +2,7 @@
 # p.180 실전 문제 6-3 성적이 낮은 순서로 학생 출력하기
 
 n = int(input())
-grade = [] # dictionary 자료구조 사용
+grade = []
 
 for _ in range(n):
     name, score = input().split()

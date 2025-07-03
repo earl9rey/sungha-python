@@ -1,5 +1,5 @@
 # 정렬 문제
-# p.361 Q-25 실패율 (시간 초과)
+# p.361 Q-25 실패율 (시간 초과) https://school.programmers.co.kr/learn/courses/30/lessons/42889
 
 def solution(N, stages):
     result = []

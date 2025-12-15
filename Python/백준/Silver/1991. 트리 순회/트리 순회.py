@@ -1,4 +1,4 @@
-#7662 이중 우선순위 큐
+#1991 트리 순회
 
 import sys, heapq
 input = sys.stdin.readline

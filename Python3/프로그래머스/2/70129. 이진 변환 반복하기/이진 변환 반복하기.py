@@ -26,7 +26,7 @@ def solution(s):
         zero += s.count("0")
 
         length = len(s) - s.count("0")
-        s = bin(length)[2:]
+        s = bin(length)[2:] #0b110 형태 -> 슬라이싱으로 0b 제거
 
         count += 1
 
